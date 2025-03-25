@@ -29,25 +29,26 @@ I'm currently pursuing a **Master’s degree in Theoretical Physics** at CY Cerg
 
 ## 📂 Projects  
 
+### 😺 Schrodinger Equation - Quantum Simulations  
+*Solving PDEs such as the Schrödinger equation and heat diffusion using numerical methods.*  
+The project is structured as an **introduction to Partial Differential Equations (PDEs)** applied to quantum physics, including examples such as the **heat equation, harmonic oscillator, quantum tunneling, and Young's double-slit experiment**.
+➡ [schrodinger-equation](https://github.com/TheoHuetQC/schrodinger-equation)  
+
 ### 🔬 Particle Simulation  
 *Numerical simulations of particles under different physical forces (gravity, potentials...).*  
-➡ [GitHub Repository](https://github.com/TheoHuetQC/particle-simulation)  
-
-### 📊 Partial Differential Equations Solver  
-*Solving PDEs such as the Schrödinger equation and heat diffusion using numerical methods.*  
-➡ [GitHub Repository](https://github.com/TheoHuetQC/PDE-solver)  
+➡ [particle-simulation](https://github.com/TheoHuetQC/particle-simulation)  
 
 ### 🔑 Cryptography in Python with The Passworld Generator
 *Implementation of cryptographic algorithms which generates secure passwords deterministically based on a user-provided identifier and a master password.*  
-➡ [GitHub Repository](https://github.com/TheoHuetQC/passworld-generator) 
+➡ [passworld-generator](https://github.com/TheoHuetQC/passworld-generator) 
 
 ### 🏛️ Quantum-Inspired Python Game  
 *Developing an educational puzzle game, designed to introduce players to the fundamental principles of quantum mechanics*  
-➡ [GitHub Repository](https://github.com/TheoHuetQC/quantum-game)
+➡ [quantum-game](https://github.com/TheoHuetQC/quantum-game)
 
 ### 🎮 2D Adventure Game  
 *A procedurally generated 2D world inspired by Minecraft, developed with Python & Pygame.*  
-➡ [GitHub Repository](https://github.com/TheoHuetQC/adventure-game)   
+➡ [adventure-game](https://github.com/TheoHuetQC/adventure-game)   
 
 (More projects coming soon!)  
 
