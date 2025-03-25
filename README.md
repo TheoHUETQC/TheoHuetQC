@@ -30,8 +30,7 @@ I'm currently pursuing a **Master’s degree in Theoretical Physics** at CY Cerg
 ## 📂 Projects  
 
 ### 😺 Schrodinger Equation - Quantum Simulations  
-*Solving PDEs such as the Schrödinger equation and heat diffusion using numerical methods.*  
-The project is structured as an **introduction to Partial Differential Equations (PDEs)** applied to quantum physics, including examples such as the **heat equation, harmonic oscillator, quantum tunneling, and Young's double-slit experiment**.
+*Solving PDEs such as the Schrödinger equation and heat diffusion using numerical methods including examples such as the harmonic oscillator, quantum tunneling, and Young's double-slit experiment.*  
 ➡ [schrodinger-equation](https://github.com/TheoHuetQC/schrodinger-equation)  
 
 ### 🔬 Particle Simulation  
