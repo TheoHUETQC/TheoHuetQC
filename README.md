@@ -29,19 +29,27 @@ I'm currently pursuing a **Master’s degree in Theoretical Physics** at CY Cerg
 
 ## 📂 Projects  
 
-### 😺 Schrodinger Equation - Quantum Simulations  
+### 🧠 Classification of quantum states with a neural network
+*Application of neural networks to the classification of quantum states*  
+➡ [neural-network](https://github.com/TheoHuetQC/neural-network)  
+
+### 😺 Schrodinger Equation - Quantum Simulations - **Young’s double-slit experiment simulation**
 *Solving PDEs such as the Schrödinger equation and heat diffusion using numerical methods including examples such as the harmonic oscillator, quantum tunneling, and Young's double-slit experiment.*  
 ➡ [schrodinger-equation](https://github.com/TheoHuetQC/schrodinger-equation)  
 
-### 🔬 Particle Simulation  
-*Numerical simulations of particles under different physical forces (gravity, potentials...).*  
+### 🔬 Particle Simulation - Phase Transition Simulation
+*Numerical simulations of particles under different physical forces (gravity, potentials...) and demonstrates the emergence of crystalline structures from disordered motion.*  
 ➡ [particle-simulation](https://github.com/TheoHuetQC/particle-simulation)  
 
-### 🔑 Cryptography in Python with The Passworld Generator
+### 🔑 Cryptography in Python with The Passworld Generator - BrewKey
 *Implementation of cryptographic algorithms which generates secure passwords deterministically based on a user-provided identifier and a master password.*  
 ➡ [passworld-generator](https://github.com/TheoHuetQC/passworld-generator) 
 
-### 🏛️ Quantum-Inspired Python Game  
+### 🧲 Monte Carlo - Ising Model Simulation
+*Numerical simulations of the Ising model and its ground state using Markov chains and Metropolis*  
+➡ [monte-carlo](https://github.com/TheoHuetQC/monte-carlo)  
+
+### 🏛️ Quantum-Inspired Python Game 
 *Developing an educational puzzle game, designed to introduce players to the fundamental principles of quantum mechanics*  
 ➡ [quantum-game](https://github.com/TheoHuetQC/quantum-game)
 
