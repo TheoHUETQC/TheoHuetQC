@@ -17,8 +17,8 @@ I'm currently pursuing a **Master’s degree in Theoretical Physics** at CY Cerg
 
 ## 🔧 Tech Stack & Tools  
 
-- **Languages:** Python, C++  
-- **Quantum Computing:** Qiskit, Cirq  
+- **Languages:** Python  
+- **Quantum Computing:** Qiskit
 - **Scientific Computing:** NumPy, SciPy, Matplotlib  
 - **Numerical Methods:** Finite Difference, Spectral Methods  
 - **Game Development:** Pygame  
@@ -29,8 +29,8 @@ I'm currently pursuing a **Master’s degree in Theoretical Physics** at CY Cerg
 
 ## 📂 Projects  
 
-### 🧠 Classification of quantum states with a neural network
-*Application of neural networks to the classification of quantum states*  
+### 🧠 Neural Decoder for Quantum Error Correction
+*Implemented a neural decoder for quantum error correction (3-qubit bit-flip code), training a neural network to predict optimal correction from measured syndromes.*  
 ➡ [neural-network](https://github.com/TheoHuetQC/neural-network)  
 
 ### 😺 Schrodinger Equation - Quantum Simulations - **Young’s double-slit experiment simulation**
