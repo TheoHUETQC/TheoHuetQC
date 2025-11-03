@@ -6,7 +6,7 @@ I'm currently pursuing a **Master’s degree in Theoretical Physics** at CY Cerg
 
 ---
 
-## About Me  
+## 🕶️ About Me  
 
 - **Master's in Theoretical Physics**  
 - Interested in **Quantum Computing, Cryptography, and Simulations**  
