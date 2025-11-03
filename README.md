@@ -8,10 +8,10 @@ I'm currently pursuing a **Master’s degree in Theoretical Physics** at CY Cerg
 
 ## About Me  
 
-- 🎓 **Master's in Theoretical Physics**  
-- ⚛️ Interested in **Quantum Computing, Cryptography, and Simulations**  
-- 💻 Experienced in **Python, Quantum Computing Libraries (Qiskit), and Numerical Methods**  
-- 📝 Conducted research on the **Quantum Zeno Effect** at Cergy Theoretical Physics Laboratory  
+- **Master's in Theoretical Physics**  
+- Interested in **Quantum Computing, Cryptography, and Simulations**  
+- Experienced in **Python, Quantum Computing Libraries (Qiskit), and Numerical Methods**  
+- Conducted research on the **Quantum Zeno Effect** at Cergy Theoretical Physics Laboratory  
 
 ---
 
