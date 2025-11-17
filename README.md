@@ -46,6 +46,12 @@ $` S\ket{Théo} = \frac{1}{\sqrt{10}}\big(2\ket{Python} + \sqrt{2}\ket{Qiskit} +
 
 ---
 
+### 💿 Low-Density-Parity-Check (LDPC) - Error-Correction Code
+*introduction to LDPC codes, one of the most elegant and powerful error-correcting code families in classical information theory.*  
+➡ [Low-Density-Parity-Check](https://github.com/TheoHuetQC/Low-Density-Parity-Check)
+
+--- 
+
 ### 😺 Schrödinger Equation – Quantum Simulations – **Young’s Double-Slit Experiment**  
 *Numerical solutions of PDEs such as the Schrödinger and heat diffusion equations, with examples including the harmonic oscillator, quantum tunneling, and the* **double-slit experiment.**  
 📈 **Project Grade: 19/20** in *Computational Physics (Master 1)*  
