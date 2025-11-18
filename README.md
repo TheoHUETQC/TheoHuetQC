@@ -52,7 +52,7 @@ $` S\ket{Théo} = \frac{1}{\sqrt{10}}\big(2\ket{Python} + \sqrt{2}\ket{Qiskit} +
 
 --- 
 
-### 😺 Schrödinger Equation – Quantum Simulations – **Young’s Double-Slit Experiment**  
+### 🐈 Schrödinger Equation – Quantum Simulations – **Young’s Double-Slit Experiment**  
 *Numerical solutions of PDEs such as the Schrödinger and heat diffusion equations, with examples including the harmonic oscillator, quantum tunneling, and the* **double-slit experiment.**  
 📈 **Project Grade: 19/20** in *Computational Physics (Master 1)*  
 ➡ [schrodinger-equation](https://github.com/TheoHuetQC/schrodinger-equation)
@@ -68,7 +68,7 @@ $` S\ket{Théo} = \frac{1}{\sqrt{10}}\big(2\ket{Python} + \sqrt{2}\ket{Qiskit} +
 
 ### 🔑 BrewKey – Cryptography & Secure Password Generator  
 *Implementation of cryptographic algorithms to deterministically generate secure passwords based on a user-provided identifier and master key.*  
-➡ [passworld-generator](https://github.com/TheoHuetQC/passworld-generator)
+➡ [password-generator](https://github.com/TheoHuetQC/password-generator)
 
 ---
 
