@@ -2,14 +2,14 @@
 
 ## Pursuing an internship opportunity in the field of quantum error correction.
 
-🚀 **Aspiring Quantum Computing Researcher | Theoretical Physics Master's Student**
+👨🏻‍💻 **Aspiring Quantum Computing Researcher | Theoretical Physics Master's Student**
 
 Currently pursuing a **Master’s degree in Theoretical Physics** at **CY Cergy Paris Université**, I’m passionate about **Quantum Computing, Computational Physics, and Numerical Simulations**.  
 My long-term goal is to become a **researcher in Quantum Information Science**, focusing on **Quantum Error Correction**.
 
 ---
 
-## 🧩 Description
+## 🤓 Description
 
 Let $D$ be the **Description Operator**.
 
@@ -22,7 +22,7 @@ $` D\ket{Théo} = \frac{1}{\sqrt{2}}\big(\ket{Master's} \otimes \ket{Theoretical
 
 ---
 
-## 🕶️ Skills
+## 🤏😎 Skills
 
 Define $S$ as the **Skills Operator**.
 
