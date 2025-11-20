@@ -17,8 +17,9 @@ $` D\ket{Théo} = \frac{1}{\sqrt{2}}\big(\ket{Master's} \otimes \ket{Theoretical
 
 - 🎓 Master’s in **Theoretical Physics**  
 - Interested in **Quantum Computing**, **Cryptography**, and **Numerical Simulations**  
-- Research experience on the **Quantum Zeno Effect** at *Cergy Theoretical Physics Laboratory*  
 - Aspiring **PhD researcher** in *Quantum Error Correction*  
+- Research experience on the **Quantum Zeno Effect** at *Cergy Theoretical Physics Laboratory* as part of my bachelor's degree internship.  
+➡ [report on the Quantum Zeno Effect](https://github.com/TheoHuetQC/intership-report-zenon-effect)
 
 ---
 
