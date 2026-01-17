@@ -1,6 +1,6 @@
 # Hey ! I'm $` \ket{Théo} \otimes \ket{HUET} `$
 
-## Pursuing an internship opportunity in the field of quantum error correction.
+## Pursuing an internship opportunity in the field of quantum computing.
 
 👨🏻‍💻 **Aspiring Quantum Computing Researcher | Theoretical Physics Master's Student**
 
