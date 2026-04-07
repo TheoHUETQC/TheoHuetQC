@@ -106,8 +106,8 @@ $` S\ket{Théo} = \frac{1}{\sqrt{10}}\big(2\ket{Python} + \sqrt{2}\ket{Qiskit} +
 ---
 
 ### BrewKey – Cryptography & Secure Password Generator  
-*Implementation of cryptographic algorithms to deterministically generate secure passwords based on a user-provided identifier and master key.*  
-➡ [password-generator](https://github.com/TheoHuetQC/password-generator)
+*Implementation of cryptographic algorithms to deterministically generate secure passwords based on a user-provided identifier and master key. Just remember one master password and your identifiers, BrewKey will handle the rest.*  
+➡ [BrewKey](https://github.com/TheoHuetQC/BrewKey)
 
 ---
 
